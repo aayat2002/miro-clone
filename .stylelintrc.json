@@ -1,0 +1,13 @@
+{
+  "ignoreFiles": [
+    "**/*.{js,jsx,ts,tsx}",
+    "**/*.d.ts",
+    "**/node_modules/**",
+    "**/.next/**",
+    "**/out/**",
+    "**/dist/**",
+    "**/build/**",
+    "**/coverage/**",
+    "**/public/**"
+  ]
+}
