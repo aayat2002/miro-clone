@@ -2,11 +2,6 @@
 
 This project is a clone of the popular Miro whiteboard application, built using modern web technologies and tools.
 
-| <img width="1439" alt="image" src="https://github.com/aayat2002/miro-clone/assets/72184476/02756b9e-7a33-4bf6-933e-d4119d16153d"> |
-| --------------------------------------------------------------------------------------------------------------------------------- |
-| <img width="1440" alt="image" src="https://github.com/aayat2002/miro-clone/assets/72184476/3c038d07-457e-44da-8019-15330ca4ecc8"> |
-| <img width="1440" alt="image" src="https://github.com/aayat2002/miro-clone/assets/72184476/8df60147-bb35-4a2b-aaa7-73161cd9d1b5"> |
-
 ## Tech Stack
 
 - **Framework**: [Next.js](https://nextjs.org/)
